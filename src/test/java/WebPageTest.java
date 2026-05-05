@@ -14,7 +14,7 @@ public class WebPageTest
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get("https://sarvarbegum-coder.github.io/LAB_1/");
+        driver.get("https://sarvarbegum-coder.github.io/DEMO_JENG/");
     }
     @Test
     public void titleValidationTest()
